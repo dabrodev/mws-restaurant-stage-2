@@ -13,6 +13,6 @@ Clone this server repository.
 3. `npm install sails -g`
 4. `node server`
 
-### Start the app 
+#### Start the app 
 1. Go to folder 'client'
-2. Run with `python -m SimpleHTTPServer 8000` `or python3 -m http.server 8000
+2. Run with `python -m SimpleHTTPServer 8000` `or python3 -m http.server 8000`
